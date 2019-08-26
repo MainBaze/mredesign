@@ -397,8 +397,8 @@ and Blueprint http://www.blueprintcss.org/
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url("assets/fonts/fontawesome/fontawesome-webfont.eot?v=4.6.1");
-  src: url("assets/fonts/fontawesome/fontawesome-webfont.eot?#iefix&v=4.6.1") format("embedded-opentype"), url("assets/fonts/fontawesome/fontawesome-webfont.woff2?v=4.6.1") format("woff2"), url("assets/fonts/fontawesome/fontawesome-webfont.woff?v=4.6.1") format("woff"), url("assets/fonts/fontawesome/fontawesome-webfont.ttf?v=4.6.1") format("truetype"), url("assets/fonts/fontawesome/fontawesome-webfont.svg?v=4.6.1#fontawesomeregular") format("svg");
+  src: url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/fontawesome/fontawesome-webfont.eot?v=4.6.1");
+  src: url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/fontawesome/fontawesome-webfont.eot#iefix&v=4.6.1") format("embedded-opentype"), url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/fontawesome/fontawesome-webfont.woff2?v=4.6.1") format("woff2"), url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/fontawesome/fontawesome-webfont.woff?v=4.6.1") format("woff"), url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/fontawesome/fontawesome-webfont.ttf?v=4.6.1") format("truetype"), url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/fontawesome/fontawesome-webfont.svg?v=4.6.1#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -2548,27 +2548,27 @@ and Blueprint http://www.blueprintcss.org/
 
 @font-face {
   font-family: 'entypo';
-  src: url("assets/fonts/entypo2/entypo.eot");
-  src: url("assets/fonts/entypo2/entypo.eot?#iefix") format("embedded-opentype"), url("assets/fonts/entypo2/entypo.woff") format("woff"), url("assets/fonts/entypo2/entypo.ttf") format("truetype"), url("assets/fonts/entypo2/entypo.svg#entypo") format("svg");
+  src: url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/entypo2/entypo.eot");
+  src: url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/entypo2/entypo.eot#iefix") format("embedded-opentype"), url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/entypo2/entypo.woff") format("woff"), url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/entypo2/entypo.ttf") format("truetype"), url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/entypo2/entypo.svg#entypo") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   @font-face {
     font-family: 'entypo';
-    src: url("assets/fonts/entypo2/entypo.svg#entypo") format("svg"); } }
+    src: url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/entypo2/entypo.svg#entypo") format("svg"); } }
 
 @font-face {
   font-family: 'entypo-social';
-  src: url("assets/fonts/entypo2/entypo-social.eot");
-  src: url("assets/fonts/entypo2/entypo-social.eot?#iefix") format("embedded-opentype"), url("assets/fonts/entypo2/entypo-social.woff") format("woff"), url("assets/fonts/entypo2/entypo-social.ttf") format("truetype"), url("assets/fonts/entypo2/entypo-social.svg#entypo-social") format("svg");
+  src: url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/entypo2/entypo-social.eot");
+  src: url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/entypo2/entypo-social.eot#iefix") format("embedded-opentype"), url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/entypo2/entypo-social.woff") format("woff"), url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/entypo2/entypo-social.ttf") format("truetype"), url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/entypo2/entypo-social.svg#entypo-social") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   @font-face {
     font-family: 'entypo-social';
-    src: url("assets/fonts/entypo2/entypo-social.svg#entypo-social") format("svg"); } }
+    src: url("https://mre.design/wp-content/themes/timber-lite/assets/fonts/entypo2/entypo-social.svg#entypo-social") format("svg"); } }
 
 [class^="icon-e-"]:before, [class*=" icon-e-"]:before {
   font-family: "entypo";
@@ -4959,7 +4959,7 @@ figcaption.wp-caption {
     display: inline-block;
     width: 48px;
     height: 4px;
-    background-image: url("assets/svg/divider.svg"); }
+    background-image: url("https://mre.design/wp-content/themes/timber-lite/assets/svg/divider.svg"); }
 
 .divider {
   display: inline-block;
@@ -5429,7 +5429,7 @@ hr {
     right: 0;
     height: 8px;
     transform: translateY(50%);
-    background-image: url("assets/svg/divider.svg");
+    background-image: url("https://mre.design/wp-content/themes/timber-lite/assets/svg/divider.svg");
     background-repeat: repeat-x;
     background-position: top center;
     opacity: 0.25; }
@@ -6574,7 +6574,7 @@ li.depth-2:before {
     right: 3.5em;
     cursor: pointer;
     z-index: 10;
-    background: url("assets/svg/close-button.svg") no-repeat;
+    background: url("https://mre.design/wp-content/themes/timber-lite/assets/svg/close-button.svg") no-repeat;
     background-size: cover; }
     @media not screen and (min-width: 1200px) {
       .fullview__close {
@@ -6831,7 +6831,7 @@ img {
   position: absolute;
   top: 3px;
   right: 4px;
-  background: url("assets/svg/fullscreen.svg");
+  background: url("https://mre.design/wp-content/themes/timber-lite/assets/svg/fullscreen.svg");
   background-size: 25px 25px;
   width: 25px;
   height: 25px;
@@ -7100,19 +7100,19 @@ img {
   margin-right: .5em; }
   .exif__icon--aperture {
     width: 18px;
-    background-image: url("assets/svg/exif-aperture.svg"); }
+    background-image: url("https://mre.design/wp-content/themes/timber-lite/assets/svg/exif-aperture.svg"); }
   .exif__icon--camera {
     width: 19px;
-    background-image: url("assets/svg/exif-camera.svg"); }
+    background-image: url("https://mre.design/wp-content/themes/timber-lite/assets/svg/exif-camera.svg"); }
   .exif__icon--exposure {
     width: 19px;
-    background-image: url("assets/svg/exif-exposure.svg"); }
+    background-image: url("https://mre.design/wp-content/themes/timber-lite/assets/svg/exif-exposure.svg"); }
   .exif__icon--focal {
     width: 19px;
-    background-image: url("assets/svg/exif-focal.svg"); }
+    background-image: url("https://mre.design/wp-content/themes/timber-lite/assets/svg/exif-focal.svg"); }
   .exif__icon--iso {
     width: 27px;
-    background-image: url("assets/svg/exif-iso.svg"); }
+    background-image: url("https://mre.design/wp-content/themes/timber-lite/assets/svg/exif-iso.svg"); }
 
 /**
  *   5.20 - Preloader
@@ -7249,7 +7249,7 @@ img {
   position: absolute;
   bottom: 1em;
   left: 1em;
-  background: url("assets/svg/postmeta.svg") no-repeat; }
+  background: url("https://mre.design/wp-content/themes/timber-lite/assets/svg/postmeta.svg") no-repeat; }
 
 .post-meta__content {
   color: white;
@@ -7578,7 +7578,7 @@ img {
   margin: 6px;
   width: 32px;
   height: 32px;
-  background: url("../images/rs-default.png") -64px 0;
+  background: url("https://mre.design/wp-content/themes/images/rs-default.png") -64px 0;
   background-color: #000;
   background-color: rgba(0, 0, 0, 0.75);
   *background-color: #000; }
@@ -7612,7 +7612,7 @@ img.rsImg {
   height: 100%;
   display: block;
   z-index: 20;
-  background: url(blank.gif); }
+  background: url(https://mre.design/wp-content/themes/timber-lite/blank.gif); }
 
 .pixslider {
   width: 100%;
@@ -8249,7 +8249,7 @@ body.page-template-default.page .site-footer {
     display: inline-block;
     height: 160px;
     width: 120px;
-    background: url("assets/svg/lock-icon.svg") no-repeat center center;
+    background: url("https://mre.design/wp-content/themes/timber-lite/assets/svg/lock-icon.svg") no-repeat center center;
     background-size: contain; }
   .password-required .protected-area-text {
     font-size: 16px;
@@ -8271,7 +8271,7 @@ body.page-template-default.page .site-footer {
     bottom: 2px;
     width: 60px;
     text-indent: -999px;
-    background: url("assets/svg/unlock-icon.svg") no-repeat center center #000;
+    background: url("https://mre.design/wp-content/themes/timber-lite/assets/svg/unlock-icon.svg") no-repeat center center #000;
     background-size: 32px;
     border-radius: 8px; }
     .password-required .auth__submit:hover {
@@ -8307,7 +8307,7 @@ body.page-template-default.page .site-footer {
   top: 50%;
   transform: translateY(-50%) translateZ(0);
   z-index: 50;
-  background: url("assets/svg/filter-icon.svg") no-repeat center center;
+  background: url("https://mre.design/wp-content/themes/timber-lite/assets/svg/filter-icon.svg") no-repeat center center;
   background-size: 22px 22px;
   opacity: 1;
   transition: 0.2s all linear; }
